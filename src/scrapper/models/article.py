@@ -6,10 +6,9 @@ class Article:
     
     """
     class article model
-    """
-    _es = None
-    
+    """    
     def __init__(self, site):
+        # self._required = {"title","article", "site", "date", "topics", "word_cloud"} @TODO
         self._required = {"title","article", "site", "date"}
         self._required_attrs_exist = False
         self._attributes = {"site":site}

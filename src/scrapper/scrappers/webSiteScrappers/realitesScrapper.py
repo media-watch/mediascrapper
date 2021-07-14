@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-class RealitiesScrapper:
+class RealitesScrapper:
     
     def scrap(self, html):
         soup = BeautifulSoup(html, features="html.parser")

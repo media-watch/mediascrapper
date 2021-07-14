@@ -1,7 +1,7 @@
 import json
 import os
 import src
-from src.scrapper.scrappers.webSiteScrappers import (lapresseScrapper, realitiesScrapper, leadersScrapper)
+from src.scrapper.scrappers.webSiteScrappers import (lapresseScrapper, realitesScrapper, leadersScrapper)
 
 class ScrapperFactory:
     """
@@ -16,7 +16,7 @@ class ScrapperFactory:
     
     def setupScrappers(self):
         self._site_scrappers = {
-            "realites":realitiesScrapper.RealitiesScrapper(),
+            "realites":realitesScrapper.RealitesScrapper(),
             "lapresse":lapresseScrapper.LapresseScrapper(),
             "leaders": leadersScrapper.LeadersScrapper()
         }
