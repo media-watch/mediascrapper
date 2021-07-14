@@ -5,7 +5,7 @@ Media watch is the first online AI-based platform to use a data driven approach 
 
 # Bienvenue a la plateforme `media-watch`:
 Notre principal objectif est de fournir aux professionnels et aux décideurs du secteur des médias des outils et des mécanismes objectifs pour identifier les orientations et les tendances en matière de couverture des évènements.  
-Nos différentes actions visent à assurer les conditions favorables à l’exercice de la profession journalistique, dans le cadre de la responsabilité et de la transparence.  4
+Nos différentes actions visent à assurer les conditions favorables à l’exercice de la profession journalistique, dans le cadre de la responsabilité et de la transparence. 
 
 # Introduction
 This repository is responsible for:
